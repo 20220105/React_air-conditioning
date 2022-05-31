@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/React_air-conditioning/static/js/main.5d337758.chunk.js",
+    "main.js.map": "/React_air-conditioning/static/js/main.5d337758.chunk.js.map",
+    "runtime-main.js": "/React_air-conditioning/static/js/runtime-main.d5767775.js",
+    "runtime-main.js.map": "/React_air-conditioning/static/js/runtime-main.d5767775.js.map",
+    "static/js/2.9c5a6d8d.chunk.js": "/React_air-conditioning/static/js/2.9c5a6d8d.chunk.js",
+    "static/js/2.9c5a6d8d.chunk.js.map": "/React_air-conditioning/static/js/2.9c5a6d8d.chunk.js.map",
+    "index.html": "/React_air-conditioning/index.html",
+    "static/js/2.9c5a6d8d.chunk.js.LICENSE.txt": "/React_air-conditioning/static/js/2.9c5a6d8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5767775.js",
+    "static/js/2.9c5a6d8d.chunk.js",
+    "static/js/main.5d337758.chunk.js"
+  ]
+}
